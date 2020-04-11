@@ -1,2 +1,2 @@
 # USACO-Solutions
-My solutions of USACO Problems. 
+My solutions of USACO Bronze Problems. 
