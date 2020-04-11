@@ -1,6 +1,14 @@
+"""
+ID: scarletcoder
+LANG: PYTHON3
+PROB: teleport
+
+"""
+
 #inputs
 f = open("teleport.in", "r")
-ans = open("teleport.out", "w")
+
+ans = open("teleport.out", "w")
 
 data = (fin.read()).split('/n')
 a = data[0]
@@ -25,7 +33,8 @@ totallist.append(third)
 
 s = min(totallist)
 ans.write(s)
-f.close()
+
+f.close()
 ans.close()
 
 
